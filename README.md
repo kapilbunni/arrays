@@ -1,2 +1,2 @@
 # arrays
-questions that i practiced on arrays
+Questions that I practiced on arrays
